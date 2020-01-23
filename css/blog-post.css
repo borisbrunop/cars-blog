@@ -1,0 +1,25 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+#webdesign{
+  padding-top: 110px
+}
+#comment{
+  padding-top: 110px
+}
+#ecommerce{
+  padding-top: 110px
+}
+#dropdown{
+  z-index: 3;
+}
+#services{
+  z-index: 1;
+}
+
